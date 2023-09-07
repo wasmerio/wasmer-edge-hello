@@ -1,0 +1,5 @@
+---
+kind: wasmer.io/App.v0
+name: wasmer-hello
+app_id: da_oR36ILtlU00n
+package: wasmer/hello@0.1.2
